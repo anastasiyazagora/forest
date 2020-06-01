@@ -170,6 +170,9 @@ color: #FFF;
     transform: translateX(-50%);
     text-align: center;
 }
+.header-scroll img {
+    margin: 0 auto;
+}
 
 .header-scroll-text {
     font-size: 16px;
