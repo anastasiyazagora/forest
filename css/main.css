@@ -92,7 +92,7 @@ body {
 .header {
     position: relative;
     background-color: #4b736d;
-    width: 100%;
+    min-width: 1200px;
     height: 800px;
     padding-top: 45px;
     background-image: url('../img/header-bg.jpg');
@@ -597,7 +597,7 @@ img {
 /*/////////////// ARTICLE--------------------------------------------- */
 /* Footer------------------------------------ */
 .footer {
-    width: 100%;
+    min-width: 1200px;
     height: auto;
     padding-top: 82px;
     padding-bottom: 100px;
