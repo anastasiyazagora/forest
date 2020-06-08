@@ -182,6 +182,7 @@ color: #FFF;
 
 /* --Header inner content--- */
 .header-inner {
+    min-width: 1200px;
     padding-top: 25px;
     padding-bottom: 25px;
     background-image: url("../img/header-inner-bg.jpg");
